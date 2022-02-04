@@ -1,1 +1,4 @@
-.
+delete musicconfig.json
+add musicconfig.json
+add custom/Sound/SNG22_ADD/Synth/custom.txt
+add mod.ini
